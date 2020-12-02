@@ -1,5 +1,7 @@
 # vuex-project
 
+## 易购项目
+
 ## Project setup
 ```
 yarn install
